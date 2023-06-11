@@ -1,6 +1,6 @@
 # Trabalho-HTML
 Criação de um Site de estudos de Exatas e Naturais
-# Trabalho de Python ( Loja Eletroeletrônica)
+# Trabalho de Python ( Site de Estudos Online)
 # Desenvolver um projeto do 0 absoluto. 
   Nossa equipe resolveu desenvolver uma plataforma de controle
   de estoque, feito para as empresas cadastrar seus determinados

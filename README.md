@@ -3,7 +3,9 @@
   Nossa equipe resolveu desenvolver uma plataforma de controle
   de estoque, feito para as empresas cadastrar seus determinados
   clientes com seus respectivos dados de cada produto a ser cadastrado.
-_____________________________________________________
+ # Professor: Vítor E. Andrade
+ # Disciplina: Desenvolvimento Rápido de Aplicações em Python
+______________________________________________________________________________
 # O Projeto foI feito apartir das seguintes etapas: 
 1. Software em python
 2. Gui- Tkinter
@@ -11,9 +13,8 @@ _____________________________________________________
 4. DB - MySQL
 5. Funcionalidades
 6. Repositorio GitHub
-___________________________________________________
+________________________________________________________________________________
 PARTICIPICANTES:
-
 #Leonardo Antonio Magalhães Gonçalves
 #Ane Camille Andrade Dourado França
 #Tiago melo menezes de brito

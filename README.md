@@ -15,12 +15,9 @@ ______________________________________________________________________________
 6. Repositorio GitHub
 ________________________________________________________________________________
 PARTICIPICANTES:
-#Leonardo Antonio Magalhães Gonçalves
-#Ane Camille Andrade Dourado França
-#Tiago melo menezes de brito
-#Paulo Vitor dos Santos Dias Mendes
-#6 Italo Giovanni Leão Ferreira
-#7 Breno Santos Andrade de Lima
-#8 ******************
-#9 *****************
-#10 ****************
+# Leonardo Antonio Magalhães Gonçalves
+# Ane Camille Andrade Dourado França
+# Tiago melo menezes de brito
+# Paulo Vitor dos Santos Dias Mendes
+# Italo Giovanni Leão Ferreira
+# Breno Santos Andrade de Lima

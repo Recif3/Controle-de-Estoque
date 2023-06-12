@@ -1,6 +1,4 @@
-# Trabalho-HTML
-Criação de um Site de estudos de Exatas e Naturais
-# Trabalho de Python ( Site de Estudos Online)
+# Trabalho de Python ( Loja Eletroeletrônica)
 # Desenvolver um projeto do 0 absoluto. 
   Nossa equipe resolveu desenvolver uma plataforma de controle
   de estoque, feito para as empresas cadastrar seus determinados
@@ -16,13 +14,12 @@ _____________________________________________________
 ___________________________________________________
 PARTICIPICANTES:
 
-#LEONARDO MAGALHÃES
-#ANE CAMILLE ANDRADE DOURADO FRANÇA
-#PV
-#THIAGO
-#5 ***************
-#6 ***************
-#7 ***************
+#Leonardo Antonio Magalhães Gonçalves
+#Ane Camille Andrade Dourado França
+#Tiago melo menezes de brito
+#Paulo Vitor dos Santos Dias Mendes
+#6 Italo Giovanni Leão Ferreira
+#7 Breno Santos Andrade de Lima
 #8 ******************
-#9 ************
-#10 ************
+#9 *****************
+#10 ****************

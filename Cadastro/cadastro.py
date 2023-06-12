@@ -1,5 +1,6 @@
 import tkinter as tk
 import sqlite3 
+import pandas as pd
 
 def cadastrar_cliente():
     conexao = sqlite3.connect('banco_clientes.db')   
@@ -28,7 +29,7 @@ def exportar_cliente():
     
     c.execute("SELECT *, oid FROM clientes")
     clientes_cadastrados = c.fetchall()
-    clientes_cadastrados = c.DataFrame(clientes_cadastrados, columns=['nome','sobrenome','email','telefone','Id_Banco'])
+    clientes_cadastrados = pd.DataFrame(clientes_cadastrados, columns=['nome','sobrenome','email','telefone','Id_Banco'])
     clientes_cadastrados.to_excel('banco_clientes.xlsx')
     
     conexao.commit()   
@@ -70,7 +71,7 @@ entry_telefone.grid(row=3, column=1, padx=10, pady=10)
 botao_cadastrar = tk.Button(janela, text='Cadastrar Cliente',command = cadastrar_cliente)
 botao_cadastrar.grid(row=4, column=0, padx=10, pady=10,columnspan=2,ipadx=80)
 
-botao_cadastrar = tk.Button(janela, text='Exportar para o excel',command = exportar_cliente)
-botao_cadastrar.grid(row=5, column=0, padx=10, pady=10,columnspan=2,ipadx=80)
+botao_exportar = tk.Button(janela, text='Exportar para o excel',command = exportar_cliente)
+botao_exportar.grid(row=5, column=0, padx=10, pady=10,columnspan=2,ipadx=80)
 
 janela.mainloop()

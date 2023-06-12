@@ -37,7 +37,7 @@ def obter():
 
 app=Tk()
 app.title("Loja Eletroeletrônica")
-app.geometry("900x300")
+app.geometry("850x300")
 
 lbid=Label(app,text="ID")#,anchor=W)
 vid=Entry(app)

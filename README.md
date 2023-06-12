@@ -21,3 +21,4 @@ ________________________________________________________________________________
 4. Paulo Vitor dos Santos Dias Mendes
 5. Italo Giovanni Leão Ferreira
 6. Breno Santos Andrade de Lima
+7. Kauã Lessa Barreto

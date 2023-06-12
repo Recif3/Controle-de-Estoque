@@ -1,8 +1,8 @@
-# Trabalho de Python ( Loja Eletroeletrônica)
+# Trabalho de Python (Painel para uma Loja Eletroeletrônica)
 # Desenvolver um projeto do 0 absoluto. 
   Nossa equipe resolveu desenvolver uma plataforma de controle
-  de estoque, feito para as empresas cadastrar seus determinados
-  clientes com seus respectivos dados de cada produto a ser cadastrado.
+  de estoque e cadastro de clientes,feito para as empresas cadastrar seus 
+  determinados clientes com seus respectivos dados de cada produto a ser cadastrado.
  # Professor: Vítor E. Andrade
  # Disciplina: Desenvolvimento Rápido de Aplicações em Python
 ______________________________________________________________________________

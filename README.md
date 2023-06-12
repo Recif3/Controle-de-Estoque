@@ -6,7 +6,7 @@
  # Professor: Vítor E. Andrade
  # Disciplina: Desenvolvimento Rápido de Aplicações em Python
 ______________________________________________________________________________
-# O Projeto foI feito apartir das seguintes etapas: 
+# O Projeto foi feito apartir das seguintes etapas: 
 1. Software em python
 2. Gui- Tkinter
 3. OOP

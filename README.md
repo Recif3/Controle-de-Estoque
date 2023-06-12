@@ -22,3 +22,4 @@ ________________________________________________________________________________
 5. Italo Giovanni Leão Ferreira
 6. Breno Santos Andrade de Lima
 7. Kauã Lessa Barreto
+8. Sérgio Luiz Teixeira Nunes Júnior

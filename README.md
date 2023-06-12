@@ -14,10 +14,10 @@ ______________________________________________________________________________
 5. Funcionalidades
 6. Repositorio GitHub
 ________________________________________________________________________________
-PARTICIPICANTES:
-# Leonardo Antonio Magalhães Gonçalves
-# Ane Camille Andrade Dourado França
-# Tiago melo menezes de brito
-# Paulo Vitor dos Santos Dias Mendes
-# Italo Giovanni Leão Ferreira
-# Breno Santos Andrade de Lima
+# PARTICIPICANTES:
+1. Leonardo Antonio Magalhães Gonçalves
+2. Ane Camille Andrade Dourado França
+3. Tiago melo menezes de brito
+4. Paulo Vitor dos Santos Dias Mendes
+5. Italo Giovanni Leão Ferreira
+6. Breno Santos Andrade de Lima
